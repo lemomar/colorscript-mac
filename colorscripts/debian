@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 #Source-Neofectch With modifications
 RED="\033[0;31m"
 BOLD="\033[0;1m"

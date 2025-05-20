@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 # ANSI color scheme script by github.com/joshdk https://github.com/joshdk/hedgehogs
 red=$(printf '\e[31m')
 grn=$(printf '\e[32m')
