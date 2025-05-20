@@ -14,6 +14,19 @@ Included are 50+ beautiful terminal color scripts.
 - sh
 
 - lolcat(for pacman-large variations)
+
+# Installation
+
+First, make the scripts in the directory executable:
+```sh
+chmod +x **/*
+```
+
+Then run the installation script:
+
+```sh
+./install.sh
+```
   
 # Usage  
     
