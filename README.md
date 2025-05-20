@@ -41,7 +41,11 @@ For even more fun, add the following line to your .bashrc or .zshrc and you will
 ```
 ### RANDOM COLOR SCRIPT ###
 colorscript random
-```  
+```
+# Known issues
+
+Some options don't aren't displayed correctly, but most of them work as expected.
+
 # Credits
 
 This is essentially a compilation of other people's work, so here are some credits:
@@ -49,3 +53,5 @@ This is essentially a compilation of other people's work, so here are some credi
 * [Derek Taylor](https://gitlab.com/dwt1/shell-color-scripts)
 
 * [joshdk/hedgehogs](https://github.com/joshdk/hedgehogs)
+
+* [Charitarth Chugh](https://github.com/charitarthchugh)
